@@ -126,6 +126,7 @@ body,
   padding: 4px 8px;
   cursor: pointer;
   color: rgb(255,255,255,90%) !important;
+  font-weight: bold;
 }
 .date i, .memory i, .cpu i {
   color: rgba(255, 255, 255, 50%);

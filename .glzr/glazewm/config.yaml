@@ -133,11 +133,11 @@ workspaces:
     bind_to_monitor: 1
     keep_alive: true
   - name: '4'
-    display_name: '4: Browser'
+    display_name: '4:         '
     bind_to_monitor: 1
     keep_alive: true
   - name: '5'
-    display_name: '5: Notes'
+    display_name: '5:         '
     bind_to_monitor: 1
     keep_alive: true
   - name: '6'
