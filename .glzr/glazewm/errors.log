@@ -1,0 +1,1 @@
+[2m2025-01-05T12:35:55.448514Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute '\"C:\\Program Files\\Mozilla Firefox\\firefox.exe\"'.\n\nError: Command doesn't have an ending `\"`: '\"C:\\Program Files\\Mozilla Firefox\\firefox.exe\"'."
