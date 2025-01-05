@@ -58,7 +58,7 @@ gaps:
 
   # Gap between windows and the screen edge.
   outer_gap:
-    top: '52px'
+    top: '44px'
     right: '12px'
     bottom: '12px'
     left: '12px'
@@ -125,7 +125,7 @@ workspaces:
     bind_to_monitor: 1
     keep_alive: true
   - name: '2'
-    display_name: '2: Code'
+    display_name: '2: Code '
     bind_to_monitor: 1
     keep_alive: true
   - name: '3'

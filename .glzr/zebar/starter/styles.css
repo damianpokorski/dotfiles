@@ -46,6 +46,7 @@ body,
 
 .center {
   justify-self: center;
+
 }
 
 .right {
@@ -89,6 +90,7 @@ body,
   }
 }
 
+
 .binding-mode,
 .tiling-direction {
   background: rgb(255 255 255 / 15%);
@@ -117,4 +119,14 @@ body,
   font-size: 7px;
   left: -8px;
   top: 3px;
+}
+
+.date, .memory, .cpu {
+  background: rgba(0,0,0,80%);
+  padding: 4px 8px;
+  cursor: pointer;
+  color: rgb(255,255,255,90%) !important;
+}
+.date i, .memory i, .cpu i {
+  color: rgba(255, 255, 255, 50%);
 }
